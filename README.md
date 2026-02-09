@@ -23,9 +23,6 @@
             It combines Computer Vision, Deep Learning, and Data Processing to deliver
             a personalized user experience.
         </p>
-    </div>
-
-    <div class="box">
         <h2>🚀 Features</h2>
         <ul>
             <li>Real-time face detection using OpenCV</li>
@@ -34,10 +31,7 @@
             <li>Interactive web interface using Streamlit</li>
             <li>Lightweight and easy to run locally</li>
         </ul>
-    </div>
-
-    <div class="box">
-        <h2>🧠 Technologies Used</h2>
+         <h2>🧠 Technologies Used</h2>
         <ul>
             <li>Python</li>
             <li>Streamlit (Web Interface)</li>
@@ -45,10 +39,7 @@
             <li>TensorFlow / Keras (CNN Model)</li>
             <li>NumPy & Pandas (Data Handling)</li>
         </ul>
-    </div>
-
-    <div class="box">
-        <h2>🖥️ Live Application</h2>
+         <h2>🖥️ Live Application</h2>
         <p>
             Make sure the Streamlit app is running using:
             <br><br>
