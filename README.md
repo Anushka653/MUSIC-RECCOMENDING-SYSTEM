@@ -50,7 +50,7 @@
         </p>
         <p>
         <!-- Streamlit App Embed -->
-        <iframe src="http://localhost:8501"></iframe>
+        <p> src="http://localhost:8501"</p>
         </p>
     </div>
 </section>
