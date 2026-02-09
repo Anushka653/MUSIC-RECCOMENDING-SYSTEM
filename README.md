@@ -48,9 +48,10 @@
         <p>
             Once running, the app will be embedded below:
         </p>
-
+        <p>
         <!-- Streamlit App Embed -->
         <iframe src="http://localhost:8501"></iframe>
+        </p>
     </div>
 </section>
 
